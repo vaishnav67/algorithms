@@ -1,8 +1,10 @@
 ### Algorithms & Data Structures in C++
 
-![Build Status][1]
+
+[![Build Status][1]][2]
 
 [1]: https://travis-ci.org/vaishnav67/algorithms.svg?branch=master
+[2]: https://travis-ci.org/vaishnav67/algorithms
 
 ### This is forked from xtaci's repo.
 
