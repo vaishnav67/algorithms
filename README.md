@@ -5,28 +5,24 @@
 [1]: https://travis-ci.org/xtaci/algorithms.svg?branch=master
 [2]: https://travis-ci.org/xtaci/algorithms
 
-#### 目标 ( goal ) :
+### This is forked from xtaci's repo.
 
-   1. 经典的算法实现      
-      (classical algorithms implementations)      
-   2. 服务器端       
-      (based on linux/gcc)       
-   3. 正确，易于使用和改造, 一个头文件一个算法，并附带一个demo.       
-      (correct! and ease of use, one .header file per algorithm)        
+#### Goal:
 
-#### 约定 ( Convention ):
+   1. Classical algorithms implementations.
+   2. Based on linux/gcc.
+   3. Correct, ease of use and usage of one header file per algorithm.     
 
-   1.  一个算法用一个.h文件表示放到include下. ( one .header file per algorithm. )
-   2.  算法演示的demo程序放到src下.  ( one demo per algorithm.  )
-   3.  程序正确通过后，请发起Pull Requests，代码被验证后入库，并在README中发布新算法实现。
-       (Please Use Fork+Pull Requests !!! Correctness is the most important!)
-   4.  TAB = 4 space.  set ts=4 in vim
-   5.  Graph的输出格式为 [Graphviz](http://www.graphviz.org/) Dot格式.
-   	(the output format of the graph is in dot of graphviz.)
-   	eg:
-   	![demograph](demo_graph.png)
+#### Convention:
 
-#### 已实现 ( Implemented ):
+   1.  1 header file per algorithm.
+   2.  1 demo per algorithm.
+   3.  TAB = 4 space.  set ts=4 in vim
+   4.  The output format of the graph is in dot of [Graphviz](http://www.graphviz.org/).org
+   	 eg:
+   	 ![demograph](demo_graph.png)
+
+#### Implemented:
 
 | Name | File |
 |------|------|
