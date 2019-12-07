@@ -2,8 +2,7 @@
 
 [![Build Status][1]][2]
 
-[1]: https://travis-ci.org/xtaci/algorithms.svg?branch=master
-[2]: https://travis-ci.org/xtaci/algorithms
+[1]: https://travis-ci.org/vaishnav67/algorithms.svg?branch=master
 
 ### This is forked from xtaci's repo.
 
